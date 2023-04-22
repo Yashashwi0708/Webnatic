@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+}
+
+.carousel-item{
+    height: 25%;
+    width: 25%;
+}
